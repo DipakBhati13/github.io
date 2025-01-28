@@ -71,12 +71,13 @@
         <a href="#about">About Me</a>
         <a href="#skills">Skills</a>
         <a href="#experience">Experience</a>
+        <a href="#certifications">Certifications</a>
         <a href="#contact">Contact</a>
     </nav>
 
     <section id="about">
         <h2>About Me</h2>
-        <p>I am a results-driven professional with over a decade of experience in sales, business development, and leadership. I specialize in blockchain fundamentals, fintech laws, and innovative solutions for business challenges.</p>
+        <p>Dynamic Sales professional with profound expertise in sales, business development, and team leadership. I excelled at Liminal Custody Solutions by crafting and selling customer-centric solutions, spearheading technical support, and significantly boosting user satisfaction. Proven track record in leveraging blockchain fundamentals and fintech laws to innovate and drive business development.</p>
     </section>
 
     <section id="skills">
@@ -98,6 +99,10 @@
                 <h3>Technical Documentation</h3>
                 <p>Expert in creating clear and comprehensive documentation for technical projects.</p>
             </div>
+            <div class="skill">
+                <h3>Technical Presentations</h3>
+                <p>Skilled in delivering impactful and engaging presentations.</p>
+            </div>
         </div>
     </section>
 
@@ -110,6 +115,7 @@
                 <ul>
                     <li>Crafted customer-centric solutions and delivered impactful demos.</li>
                     <li>Guided customer onboarding and provided technical support.</li>
+                    <li>Contributed to technical content to boost market presence.</li>
                 </ul>
             </div>
             <div class="job">
@@ -120,13 +126,34 @@
                     <li>Developed strategies for market expansion.</li>
                 </ul>
             </div>
+            <div class="job">
+                <h3>Lead</h3>
+                <p><strong>JUN 2016 - FEB 2019 | Zeb IT Services</strong></p>
+                <ul>
+                    <li>Managed operations for a team of 850+ members.</li>
+                    <li>Implemented strategies to achieve business and profitability goals.</li>
+                </ul>
+            </div>
         </div>
+    </section>
+
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Web 3.0 Masterclass</li>
+            <li>Master Ethereum and Solidity</li>
+            <li>Six Sigma Black Belt</li>
+            <li>Data Analysis Foundation</li>
+            <li>Blockchain Foundations and Use Cases</li>
+            <li>Fintech Laws and Policy</li>
+        </ul>
     </section>
 
     <section id="contact">
         <h2>Contact</h2>
         <p>Email: <a href="mailto:dipakbhati87@gmail.com">dipakbhati87@gmail.com</a></p>
         <p>Phone: +91 99744 30905</p>
+        <p>Location: Ahmedabad, Gujarat</p>
     </section>
 
     <footer>
