@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dipak Bhati - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .skills, .experience {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .skill, .job {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            flex: 1 1 calc(45% - 30px);
+            min-width: 300px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dipak Bhati</h1>
+        <p>Dynamic Sales Professional | Blockchain Enthusiast</p>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#skills">Skills</a>
+        <a href="#experience">Experience</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a results-driven professional with over a decade of experience in sales, business development, and leadership. I specialize in blockchain fundamentals, fintech laws, and innovative solutions for business challenges.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <div class="skills">
+            <div class="skill">
+                <h3>Blockchain Fundamentals</h3>
+                <p>In-depth knowledge of blockchain technologies and applications in fintech.</p>
+            </div>
+            <div class="skill">
+                <h3>Business Development</h3>
+                <p>Proven strategies for driving growth and building partnerships.</p>
+            </div>
+            <div class="skill">
+                <h3>Data Analysis</h3>
+                <p>Experience in Python for data-driven decision-making.</p>
+            </div>
+            <div class="skill">
+                <h3>Technical Documentation</h3>
+                <p>Expert in creating clear and comprehensive documentation for technical projects.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <div class="experience">
+            <div class="job">
+                <h3>Solution Engineer</h3>
+                <p><strong>FEB 2023 - PRESENT | Liminal Custody Solutions</strong></p>
+                <ul>
+                    <li>Crafted customer-centric solutions and delivered impactful demos.</li>
+                    <li>Guided customer onboarding and provided technical support.</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Independent Consultant</h3>
+                <p><strong>SEP 2019 - PRESENT | Small Medium Businesses</strong></p>
+                <ul>
+                    <li>Led projects in blockchain and digital marketing.</li>
+                    <li>Developed strategies for market expansion.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:dipakbhati87@gmail.com">dipakbhati87@gmail.com</a></p>
+        <p>Phone: +91 99744 30905</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Dipak Bhati. All rights reserved.</p>
+    </footer>
+</body>
+</html>
